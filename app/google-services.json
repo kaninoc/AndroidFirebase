@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020831507420",
+    "project_id": "androidfirebase-b4a22",
+    "storage_bucket": "androidfirebase-b4a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020831507420:android:60b11b00182e8cecad2519",
+        "android_client_info": {
+          "package_name": "com.unal.edu.androidfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC697NT1MCi43RDU6TXdP7CmmgHndCxF2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
